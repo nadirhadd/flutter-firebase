@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77549427548",
+    "project_id": "abpweek11",
+    "storage_bucket": "abpweek11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77549427548:android:73f4495bbe66801a8fff99",
+        "android_client_info": {
+          "package_name": "com.example.abpweek11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFUV0BzEX0XzM3h-TrpCosTC-1GHAQZhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
